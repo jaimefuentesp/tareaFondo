@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">tareaFondo</string>
+    <string name="app_name">tareaFondos</string>
     <string name="entrar">Betreten</string>
     <string name="bienvenido">Willkomen</string>
     <string name="todo">TODO</string>
